@@ -8,6 +8,8 @@ input values:
 2. Initializing arrays with random values. The following loop initializes the array with random values between 0 and 99:
 
 3.  Printing arrays. To print a two-dimensional array, you have to print each element in the array using a loop.
+
+4.   Summing all elements. Use a variable named total to store the sum. Initially total is 0. Add each element in the array to total using a loop
   
 5.  Summing elements by column. Assume every row has the same number of elements. For each column, use a variable named total to store its sum. Add each element in the column to total using a loop.
 
